@@ -1,0 +1,6 @@
+
+
+AWS SageMaker free tier
+
+Training 	50 hours of m4.xlarge or m5.xlarge instances
+Inference 	125 hours of m4.xlarge or m5.xlarge instances
